@@ -1,0 +1,20 @@
+{
+    "name": "龙江",
+    "head_auth_page": "获取权限",
+    "location_auth": "定位",
+    "location_complain": "定位权限说明",
+    "phone_auth": "电话号码",
+    "phone_auth_complain": "手机权限说明",
+    "confirm_auth_complain": "勾选授权radius说明",
+    "welcomeMain": "Hello",
+    "welcomeSub": "World World World",
+    "phoneNumber": "电话号码",
+    "tapPhonePlaceholder": "请输入电话号码",
+    "verifyCode": "验证码",
+    "tapVerifyCode": "请输入验证码",
+    "send": "发送",
+    "useVoiceWhenNoMessage": "未收到验证码用语音验证",
+    "login": "登陆",
+    "agreeWith": "我接受",
+    "policy": "隐私协议"
+}

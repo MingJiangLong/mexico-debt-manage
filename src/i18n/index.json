@@ -1,0 +1,13 @@
+{
+    "name": "龙江",
+    "head_auth_page": "Giải thích về quyền hạn",
+    "location_auth": "location",
+    "location_complain": "定位权限说明",
+    "phone_auth": "phone",
+    "phone_auth_complain": "手机权限说明",
+    "confirm_auth_complain": "Đồng ý với Chính sách bảo mật và Điều khoản dịch vụ của ứng dụng",
+    "agree": "同意按钮",
+    "exist": "退出app",
+    "welcome_main": "Hello",
+    "welcome_sub": "World World World"
+}

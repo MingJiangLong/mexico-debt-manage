@@ -1,0 +1,16 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "skipLibCheck": true, /* Skip type checking all .d.ts files. */
+    "baseUrl": ".",
+    "paths": {
+      "*": [
+        "src/*"
+      ],
+      "@components": ["src/components"],
+      "@store": ["src/store"],
+      "@xunmo-components": ["src/xunmo-rn-helper/components"],
+      "@xunmo-hooks": ["src/xunmo-rn-helper/hooks"],
+    }
+  }
+}

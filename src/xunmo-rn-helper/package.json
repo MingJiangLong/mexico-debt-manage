@@ -1,0 +1,24 @@
+{
+  "name": "xunmo-rn-helper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "peerDependencies": {
+    "@react-native-community/geolocation": "^3.4.0",
+    "react": "18.3.1",
+    "react-native": "0.75.2",
+    "react-native-appsflyer": "^6.15.1",
+    "react-native-contacts": "^7.0.8",
+    "react-native-exit-app": "^2.0.0",
+    "react-native-image-crop-picker": "^0.41.2",
+    "react-native-linear-gradient": "^2.8.3",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-webview": "^13.12.2"
+  },
+  "license": "ISC",
+  "description": ""
+}
